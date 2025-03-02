@@ -1,0 +1,70 @@
+# Load necessary libraries
+install.packages("ggplot2")
+library(ggplot2)
+
+# 1. Bar Plot: Most Calories Burned by Workout Type
+data <- data.frame(
+  Workout_Type = c("Cardio", "Strength", "Yoga", "HIIT", "Cycling"),
+  Avg_Calories_Burned = c(500, 600, 350, 750, 450)
+)
+
+ggplot(data, aes(x = reorder(Workout_Type, -Avg_Calories_Burned), y = Avg_Calories_Burned)) +
+  geom_bar(stat = "identity", fill = "skyblue") +
+  labs(title = "Average Calories Burned by Workout Type", x = "Workout Type", y = "Average Calories Burned") +
+  theme_minimal()
+
+# 2. Scatter Plot: Calories Burned vs. Heart Rate
+data <- data.frame(
+  Heart_Rate = c(120, 140, 160, 135, 145),
+  Calories_Burned = c(300, 450, 500, 400, 350)
+)
+
+ggplot(data, aes(x = Heart_Rate, y = Calories_Burned)) +
+  geom_point(color = "blue") +
+  labs(title = "Calories Burned vs. Heart Rate", x = "Heart Rate (bpm)", y = "Calories Burned") +
+  theme_minimal()
+
+# 3. Line Plot: Calories Burned Over Time
+data <- data.frame(
+  Month = c("2022-01", "2022-02", "2022-03", "2022-04"),
+  Avg_Calories_Burned = c(450, 400, 500, 550)
+)
+
+ggplot(data, aes(x = Month, y = Avg_Calories_Burned)) +
+  geom_line(group = 1, color = "blue") +
+  geom_point(color = "red") +
+  labs(title = "Calories Burned Over Time", x = "Month", y = "Average Calories Burned") +
+  theme_minimal()
+
+# 4. Pie Chart: Workout Type Distribution
+data <- data.frame(
+  Workout_Type = c("Cardio", "Strength", "Yoga", "HIIT", "Cycling"),
+  Count = c(100, 80, 50, 90, 60)
+)
+
+ggplot(data, aes(x = "", y = Count, fill = Workout_Type)) +
+  geom_bar(stat = "identity") +
+  coord_polar(theta = "y") +
+  labs(title = "Workout Type Distribution") +
+  theme_void()
+
+# 5. Box Plot: Calories Burned by Age Group
+data <- data.frame(
+  Age_Group = c("18-25", "26-35", "36-45", "46-60"),
+  Calories_Burned = c(300, 500, 400, 600)
+)
+
+ggplot(data, aes(x = Age_Group, y = Calories_Burned)) +
+  geom_boxplot(fill = "lightblue") +
+  labs(title = "Calories Burned by Age Group", x = "Age Group", y = "Calories Burned") +
+  theme_minimal()
+
+# 6. Histogram: Distribution of Calories Burned
+data <- data.frame(
+  Calories_Burned = c(300, 450, 500, 350, 600, 550, 400, 550, 650, 500)
+)
+
+ggplot(data, aes(x = Calories_Burned)) +
+  geom_histogram(binwidth = 50, fill = "blue", color = "black") +
+  labs(title = "Distribution of Calories Burned", x = "Calories Burned", y = "Frequency") +
+  theme_minimal()
