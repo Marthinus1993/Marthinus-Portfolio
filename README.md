@@ -1,4 +1,4 @@
-# 🌟 Marthinus Janse van Rensburg - GitHub Portfolio  
+# Marthinus Janse van Rensburg - GitHub Portfolio  
 
 ## 👋 About Me  
 Hi! I'm **Marthinus Janse van Rensburg**, a **Sales Operations Engineer** with over **14 years of experience** in **data analytics, business intelligence, and decision-making**. 
