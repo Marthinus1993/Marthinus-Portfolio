@@ -1,6 +1,5 @@
-Marthinus Janse van Rensburg
 📍 Location: London, United Kingdom
-📧 Email: [Your Email] | 📞 Phone: [Your Number] | 🔗 LinkedIn | 🌍 GitHub
+🔗 LinkedIn | 🌍 GitHub
 
 👋 About Me
 I’m Marthinus Janse van Rensburg, a Sales Operations & Data Analytics Specialist with 14+ years of experience in data analysis, business intelligence, and sales performance optimization.
@@ -78,7 +77,6 @@ Spearheaded a new in-house brand launch, expanding market share across Africa.
 📜 Data Storytelling with Power BI – Edureka
 
 🔗 Connect With Me
-📧 Email: [Your Email]
 🔗 LinkedIn: Marthinus Janse van Rensburg
 📊 Tableau Public: View My Work
 🌍 GitHub: Marthinus-Portfolio
