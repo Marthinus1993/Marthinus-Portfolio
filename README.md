@@ -42,7 +42,8 @@ Featured Projects
 ✔ Data Visualisation & Reporting – Power BI, Tableau  
 ✔ CRM & Sales Optimisation – HubSpot, Salesforce, SAP B1  
 ✔ Sales Performance Analysis – Forecasting, KPI tracking, reporting  
-✔ Data Storytelling & Automation – Interactive dashboards, data cleaning, ETL  
+✔ Data Storytelling & Automation – Interactive dashboards, data cleaning, ETL
+✔ Microsoft Excel (Advanced) - ETL, Dashboards, Data Visualisation, Data Cleaning
 
 ### 💼 Professional Experience  
 
