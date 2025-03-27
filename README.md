@@ -42,7 +42,7 @@ Featured Projects
 ✔ Data Visualisation & Reporting – Power BI, Tableau  
 ✔ CRM & Sales Optimisation – HubSpot, Salesforce, SAP B1  
 ✔ Sales Performance Analysis – Forecasting, KPI tracking, reporting  
-✔ Data Storytelling & Automation – Interactive dashboards, data cleaning, ETL
+✔ Data Storytelling & Automation – Interactive dashboards, data cleaning, ETL  
 ✔ Microsoft Excel (Advanced) - ETL, Dashboards, Data Visualisation, Data Cleaning
 
 ### 💼 Professional Experience  
@@ -51,31 +51,31 @@ Featured Projects
 📅 November 2024 – Present | 📍 London, UK  
 
 • Conduct sales performance analysis to evaluate customer activity, identify revenue opportunities,
-and support data-driven sales strategies.
+and support data-driven sales strategies.  
 • Supported system migration from Salesforce to HubSpot, integrating SAP B1 for seamless data
-flow and improving operational efficiency across sales processes.
+flow and improving operational efficiency across sales processes.  
 • Managed account allocation for sales teams using geographical mapping and visual analysis in
-Tableau, optimising territory coverage and resource distribution.
+Tableau, optimising territory coverage and resource distribution.  
 • Designed and implemented tailored dashboards for various business functions, enabling real-time
-sales performance monitoring, and opportunity tracking.
+sales performance monitoring, and opportunity tracking.  
 • Collaborated with cross-functional teams to improve sales reporting accuracy, enhance data
-visibility, and support business decisions with actionable insights. 
+visibility, and support business decisions with actionable insights.   
 
 ### Country Sales Manager | John King Group; Precision Chains Ltd
 📅 December 2023 – October 2024 | 📍 London, UK
 
 • Leveraged data analysis and reporting tools to monitor sales performance, and evaluate quote-to-
-order conversion rates, enabling data-driven decision-making and strategy adjustments.
+order conversion rates, enabling data-driven decision-making and strategy adjustments.  
 • Developed and maintained Hubspot CRM system, enhancing customer data accuracy and enabling
-performance tracking to strengthen customer relationships and drive sales growth.
+performance tracking to strengthen customer relationships and drive sales growth.  
 • Increased sales by 11% through the strategic re-engagement of dormant accounts, acquisition of
 new clients, and effective management of existing accounts, supported by data insights and sales
-reporting.
+reporting.  
 • Created dashboards and visual reports using Microsoft Excel to track key performance metrics,
 including top and lost customers, sales trends, and enquiry volume, improving visibility for both
-sales teams and senior management.
+sales teams and senior management.  
 • Optimised inventory levels using sales data analysis, reducing stock holding by 21% while ensuring
-product availability aligned with market demand.
+product availability aligned with market demand.  
 • Contributed to business expansion by establishing a new branch, recruiting and onboarding key
 team members, and driving operational efficiency through data-backed decision-making.  
 
@@ -84,18 +84,18 @@ team members, and driving operational efficiency through data-backed decision-ma
 
 • Doubled sales revenue every 3 years by leveraging data-driven insights for tender negotiations,
 customer performance analysis, and stock optimisation, supported by supplier relationship
-management.
+management.  
 • Achieved an 8-year winning streak in seasonal tenders by developing data-backed pricing
-strategies, analysing competitor activity, and aligning supply capabilities with market demand.
+strategies, analysing competitor activity, and aligning supply capabilities with market demand.  
 • Increased gross profit margins by 23% through volumetric purchasing strategies, informed by sales
-and market data analysis, optimising cost efficiencies and pricing models.
+and market data analysis, optimising cost efficiencies and pricing models.  
 • Led a high-performing sales team, utilising CRM systems and performance dashboards to monitor
-individual and regional targets, enabling proactive performance management and growth strategies.
+individual and regional targets, enabling proactive performance management and growth strategies.  
 • Spearheaded the launch of a new in-house brand after conducting extensive market research and
-sales data analysis, resulting in increased market share across Africa.
+sales data analysis, resulting in increased market share across Africa.  
 • Maintained optimal inventory levels by developing weekly stock analysis reports and monthly
 demand forecasts, ensuring product availability aligned with sales patterns and minimising holding
-costs.
+costs.  
 
 ### 📜 Education & Certifications
 
@@ -105,8 +105,8 @@ costs.
 📜 Google Data Analytics Professional Certificate – Google  
 📜 Data Visualization with R – IBM  
 📜 Data Storytelling with Power BI – Edureka  
-📜 Crash Course on Python - Google
-📜 Using Python to interact with the Operating System - Google
+📜 Crash Course on Python - Google  
+📜 Using Python to interact with the Operating System - Google  
 
 🔗 Connect With Me  
 📍 Location: London, United Kingdom  
