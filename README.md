@@ -16,7 +16,7 @@ Featured Projects
 ### 1️⃣ Workout & Fitness Tracker Data Analysis (SQL & R)
 📌 Objective: Analyse workout data to extract insights on calories burned, fitness trends, and user activity levels.  
 - Tech Stack: SQL (Aggregation, Joins, Correlation Analysis, Custom Scoring), R.  
-- Key Insights:  
+  Key Insights:  
 - Identified the most effective workout for calorie burning  
 - Analysed seasonal workout trends  
 - Built a custom Health Score for fitness evaluation  
@@ -24,7 +24,7 @@ Featured Projects
 ### 2️⃣ Superstore Sales Performance Analysis (SQL & Power BI)  
 📌 Objective: Analyse sales performance, profit margins, and sales trends from 2011-2014 to identify top-performing categories.  
 - Tech Stack: SQL (Aggregation, Joins, Data Cleaning, Date Formatting), Power BI.  
-- Key Insights:  
+  Key Insights:  
 - Mapped regional sales trends and profit margins  
 - Identified underperforming product categories  
 - Integrated SQL queries into Power BI for interactive visualizations  
@@ -32,7 +32,7 @@ Featured Projects
 ### 3️⃣ Sports Performance Analytics (SQL)  
 📌 Objective: Analyse athlete performance trends, demographics, and country-based sports dominance.  
 - Tech Stack: SQL (Data Cleaning, Joins, Correlation, Time-Series Analysis)  
-- Key Insights:  
+  Key Insights:  
 - Identified key performance trends across different sports  
 - Explored the impact of demographics on athlete success  
 - Developed a Medal Efficiency Score to compare countries  
