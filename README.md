@@ -14,15 +14,15 @@ Open to collaborations in data analytics, business intelligence, and automation.
 Featured Projects
 
 ### 1️⃣ Workout & Fitness Tracker Data Analysis (SQL & R)
-📌 Objective: Analyze workout data to extract insights on calories burned, fitness trends, and user activity levels.  
+📌 Objective: Analyse workout data to extract insights on calories burned, fitness trends, and user activity levels.  
 - Tech Stack: SQL (Aggregation, Joins, Correlation Analysis, Custom Scoring), R.  
 - Key Insights:  
 - Identified the most effective workout for calorie burning  
-- Analyzed seasonal workout trends  
+- Analysed seasonal workout trends  
 - Built a custom Health Score for fitness evaluation  
 
 ### 2️⃣ Superstore Sales Performance Analysis (SQL & Power BI)  
-📌 Objective: Analyze sales performance, profit margins, and sales trends from 2011-2014 to identify top-performing categories.  
+📌 Objective: Analyse sales performance, profit margins, and sales trends from 2011-2014 to identify top-performing categories.  
 - Tech Stack: SQL (Aggregation, Joins, Data Cleaning, Date Formatting), Power BI.  
 - Key Insights:  
 - Mapped regional sales trends and profit margins  
@@ -30,7 +30,7 @@ Featured Projects
 - Integrated SQL queries into Power BI for interactive visualizations  
 
 ### 3️⃣ Sports Performance Analytics (SQL)  
-📌 Objective: Analyze athlete performance trends, demographics, and country-based sports dominance.  
+📌 Objective: Analyse athlete performance trends, demographics, and country-based sports dominance.  
 - Tech Stack: SQL (Data Cleaning, Joins, Correlation, Time-Series Analysis)  
 - Key Insights:  
 - Identified key performance trends across different sports  
@@ -39,7 +39,7 @@ Featured Projects
 
 ### 📌 Skills & Tech Stack  
 ✔ Data Analysis & Business Intelligence – SQL, R.  
-✔ Data Visualization & Reporting – Power BI, Tableau  
+✔ Data Visualisation & Reporting – Power BI, Tableau  
 ✔ CRM & Sales Optimisation – HubSpot, Salesforce, SAP B1  
 ✔ Sales Performance Analysis – Forecasting, KPI tracking, reporting  
 ✔ Data Storytelling & Automation – Interactive dashboards, data cleaning, ETL  
@@ -49,28 +49,52 @@ Featured Projects
 ### Sales Engineer | Swagelok London, Caspian & Central Asia
 📅 November 2024 – Present | 📍 London, UK  
 
-Conducting sales performance analysis to identify revenue opportunities and support sales strategies.  
-Led CRM system migration from Salesforce to HubSpot, integrating SAP B1 for seamless data flow.  
-Designed and implemented interactive Tableau dashboards for real-time sales tracking.  
-Improved sales reporting accuracy, enhancing data-driven decision-making.  
+• Conduct sales performance analysis to evaluate customer activity, identify revenue opportunities,
+and support data-driven sales strategies.
+• Supported system migration from Salesforce to HubSpot, integrating SAP B1 for seamless data
+flow and improving operational efficiency across sales processes.
+• Managed account allocation for sales teams using geographical mapping and visual analysis in
+Tableau, optimising territory coverage and resource distribution.
+• Designed and implemented tailored dashboards for various business functions, enabling real-time
+sales performance monitoring, and opportunity tracking.
+• Collaborated with cross-functional teams to improve sales reporting accuracy, enhance data
+visibility, and support business decisions with actionable insights. 
 
 ### Country Sales Manager | John King Group; Precision Chains Ltd
 📅 December 2023 – October 2024 | 📍 London, UK
 
-Increased sales by 11% through strategic account management and new client acquisition.  
-Developed and maintained HubSpot CRM, improving customer data accuracy and performance tracking.  
-Reduced stock holding by 21% using inventory and sales data analysis.  
-Built custom Excel dashboards to visualize sales trends, key customers, and enquiry volumes.  
-Led the establishment of a new branch, driving operational efficiency through data insights.  
+• Leveraged data analysis and reporting tools to monitor sales performance, and evaluate quote-to-
+order conversion rates, enabling data-driven decision-making and strategy adjustments.
+• Developed and maintained Hubspot CRM system, enhancing customer data accuracy and enabling
+performance tracking to strengthen customer relationships and drive sales growth.
+• Increased sales by 11% through the strategic re-engagement of dormant accounts, acquisition of
+new clients, and effective management of existing accounts, supported by data insights and sales
+reporting.
+• Created dashboards and visual reports using Microsoft Excel to track key performance metrics,
+including top and lost customers, sales trends, and enquiry volume, improving visibility for both
+sales teams and senior management.
+• Optimised inventory levels using sales data analysis, reducing stock holding by 21% while ensuring
+product availability aligned with market demand.
+• Contributed to business expansion by establishing a new branch, recruiting and onboarding key
+team members, and driving operational efficiency through data-backed decision-making.  
 
 ### National Product Manager | BMG (Pty) Ltd
 📅 August 2015 – November 2023 | 📍 South Africa
 
-Doubled revenue every 3 years using data-driven sales and supplier negotiations.  
-Achieved 8-year tender success streak through competitive pricing strategies and market analysis.  
-Increased gross profit margins by 23% via volumetric purchasing and cost optimization.  
-Led a high-performing sales team, leveraging CRM dashboards for performance tracking.  
-Spearheaded a new in-house brand launch, expanding market share across Africa.  
+• Doubled sales revenue every 3 years by leveraging data-driven insights for tender negotiations,
+customer performance analysis, and stock optimisation, supported by supplier relationship
+management.
+• Achieved an 8-year winning streak in seasonal tenders by developing data-backed pricing
+strategies, analysing competitor activity, and aligning supply capabilities with market demand.
+• Increased gross profit margins by 23% through volumetric purchasing strategies, informed by sales
+and market data analysis, optimising cost efficiencies and pricing models.
+• Led a high-performing sales team, utilising CRM systems and performance dashboards to monitor
+individual and regional targets, enabling proactive performance management and growth strategies.
+• Spearheaded the launch of a new in-house brand after conducting extensive market research and
+sales data analysis, resulting in increased market share across Africa.
+• Maintained optimal inventory levels by developing weekly stock analysis reports and monthly
+demand forecasts, ensuring product availability aligned with sales patterns and minimising holding
+costs.
 
 ### 📜 Education & Certifications
 
