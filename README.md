@@ -4,7 +4,7 @@
 
 I’m Marthinus Janse van Rensburg, a Sales Operations Engineer with 14+ years of experience in data analysis, business intelligence, and sales performance optimisation.
 
-I specialize in transforming raw data into actionable insights using SQL, R, Power BI, Tableau, and Python, helping businesses make informed decisions. I thrive on solving complex problems, leveraging data storytelling, and driving strategic initiatives.
+I specialise in transforming raw data into actionable insights using SQL, R, Power BI, Tableau, and Python, helping businesses make informed decisions. I thrive on solving complex problems, leveraging data storytelling, and driving strategic initiatives.
 
 Currently working on: Sales & Operations Performance Analytics using Power BI, Tableau and SQL.  
 Exploring: Python for data analysis and machine learning.  
@@ -15,32 +15,32 @@ Featured Projects
 
 ### 1️⃣ Workout & Fitness Tracker Data Analysis (SQL & R)
 📌 Objective: Analyze workout data to extract insights on calories burned, fitness trends, and user activity levels.  
-🔹 Tech Stack: SQL (Aggregation, Joins, Correlation Analysis, Custom Scoring), R.  
-🔹 Key Insights:  
-✅ Identified the most effective workout for calorie burning  
-✅ Analyzed seasonal workout trends  
-✅ Built a custom Health Score for fitness evaluation  
+- Tech Stack: SQL (Aggregation, Joins, Correlation Analysis, Custom Scoring), R.  
+- Key Insights:  
+- Identified the most effective workout for calorie burning  
+- Analyzed seasonal workout trends  
+- Built a custom Health Score for fitness evaluation  
 
 ### 2️⃣ Superstore Sales Performance Analysis (SQL & Power BI)  
 📌 Objective: Analyze sales performance, profit margins, and sales trends from 2011-2014 to identify top-performing categories.  
-🔹 Tech Stack: SQL (Aggregation, Joins, Data Cleaning, Date Formatting), Power BI.  
-🔹 Key Insights:  
-✅ Mapped regional sales trends and profit margins  
-✅ Identified underperforming product categories  
-✅ Integrated SQL queries into Power BI for interactive visualizations  
+- Tech Stack: SQL (Aggregation, Joins, Data Cleaning, Date Formatting), Power BI.  
+- Key Insights:  
+- Mapped regional sales trends and profit margins  
+- Identified underperforming product categories  
+- Integrated SQL queries into Power BI for interactive visualizations  
 
 ### 3️⃣ Sports Performance Analytics (SQL)  
 📌 Objective: Analyze athlete performance trends, demographics, and country-based sports dominance.  
-🔹 Tech Stack: SQL (Data Cleaning, Joins, Correlation, Time-Series Analysis)  
-🔹 Key Insights:  
-✅ Identified key performance trends across different sports  
-✅ Explored the impact of demographics on athlete success  
-✅ Developed a Medal Efficiency Score to compare countries  
+- Tech Stack: SQL (Data Cleaning, Joins, Correlation, Time-Series Analysis)  
+- Key Insights:  
+- Identified key performance trends across different sports  
+- Explored the impact of demographics on athlete success  
+- Developed a Medal Efficiency Score to compare countries  
 
 ### 📌 Skills & Tech Stack  
 ✔ Data Analysis & Business Intelligence – SQL, R.  
 ✔ Data Visualization & Reporting – Power BI, Tableau  
-✔ CRM & Sales Optimization – HubSpot, Salesforce, SAP B1  
+✔ CRM & Sales Optimisation – HubSpot, Salesforce, SAP B1  
 ✔ Sales Performance Analysis – Forecasting, KPI tracking, reporting  
 ✔ Data Storytelling & Automation – Interactive dashboards, data cleaning, ETL  
 
@@ -80,6 +80,8 @@ Spearheaded a new in-house brand launch, expanding market share across Africa.
 📜 Google Data Analytics Professional Certificate – Google  
 📜 Data Visualization with R – IBM  
 📜 Data Storytelling with Power BI – Edureka  
+📜 Crash Course on Python - Google
+📜 Using Python to interact with the Operating System - Google
 
 🔗 Connect With Me  
 📍 Location: London, United Kingdom  
