@@ -111,6 +111,6 @@ costs.
 🔗 Connect With Me  
 📍 Location: London, United Kingdom  
 • LinkedIn: https://www.linkedin.com/in/marthinus-janse-van-rensburg-964206124  
-• Tableau Public: https://public.tableau.com/app/profile/marthinus.janse.van.rensburg  
+• Tableau Public:https://public.tableau.com/app/profile/marthinus.janse.van.rensburg  
 • GitHub: https://github.com/Marthinus1993/Marthinus-Portfolio  
 • Maven Analytics: https://mavenanalytics.io/profile/68a1f3f0-f0f1-7069-0fea-231699d2999d
